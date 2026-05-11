@@ -1,4 +1,4 @@
-#  
+#  vip Alfred for macOS Plugin | cloud backup + custom themes is the best Alfred for macOS plugin, featuring cloud backup and custom themes. Safe, efficient, and optimized for macOS
 
 
 
